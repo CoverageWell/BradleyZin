@@ -1,0 +1,6 @@
+book1 = PythonBook('Learning Python', 'Mark Lutz')
+In [20]: book1
+Out[20]: Book: Learning Python, Author: Mark Lutz
+book2 = PythonBook('Python Think', 'Allen B Dowey')
+In [22]: book2
+Out[22]: Book: Python Think, Author: Allen B Dowey
